@@ -1,1 +1,1 @@
-const variable = 1;
+const numberOne = 1;
